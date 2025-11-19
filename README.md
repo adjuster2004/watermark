@@ -95,14 +95,14 @@ cd watermark
 ```
 **Редактировать** config.yaml
 telegram:
-  **admin_id**: здесь укажите Ваш ID
-  **bot_token**: Здесь укажите токен бота (можно взять у @fatherbot)
-  **channel_id**: 'ID канала или чата, куда бот будет постить картинки с watermark' (Необязательный параметр)
+ - **admin_id**: здесь укажите Ваш ID
+ - **bot_token**: Здесь укажите токен бота (можно взять у @fatherbot)
+ - **channel_id**: 'ID канала или чата, куда бот будет постить картинки с watermark' (Необязательный параметр)
 
 **Пример**
-  **admin_id**: 9989543478
-  **bot_token**: 6183733821:AAHKNDHFUDJFjiqtBWkWd0FMDYSLRKJT2YxXY
-  **channel_id**: '-**100**2369337436'
+ - **admin_id**: 9989543478
+ - **bot_token**: 6183733821:AAHKNDHFUDJFjiqtBWkWd0FMDYSLRKJT2YxXY
+ - **channel_id**: '-**100**2369337436'
 
 Идентификаторы каналов:
 
