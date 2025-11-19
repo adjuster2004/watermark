@@ -132,17 +132,22 @@ docker-compose down
 
 ### 📋 Фотографии
 
-<img width="530" height="415" alt="image" src="https://github.com/user-attachments/assets/efedcbb7-4a0a-4aca-8ebb-65cb8ec00b2b" />
+<img width="265" height="207" alt="image" src="https://github.com/user-attachments/assets/efedcbb7-4a0a-4aca-8ebb-65cb8ec00b2b" />
 
-<img width="482" height="693" alt="image" src="https://github.com/user-attachments/assets/8cfe623e-37ea-427f-8800-9d5fb2de3f0b" />
 
-<img width="409" height="339" alt="image" src="https://github.com/user-attachments/assets/2445920e-251b-4389-acd3-c6e081dc1dcd" />
+<img width="241" height="346" alt="image" src="https://github.com/user-attachments/assets/8cfe623e-37ea-427f-8800-9d5fb2de3f0b" />
 
-<img width="473" height="401" alt="image" src="https://github.com/user-attachments/assets/b1ffc8eb-010f-4d26-861f-613676fd9108" />
 
-<img width="289" height="440" alt="image" src="https://github.com/user-attachments/assets/2f8c6586-684a-4f45-be24-f76a89b99952" />
+<img width="204" height="169" alt="image" src="https://github.com/user-attachments/assets/2445920e-251b-4389-acd3-c6e081dc1dcd" />
 
-<img width="367" height="92" alt="image" src="https://github.com/user-attachments/assets/6fe06708-73be-4935-a62b-77623ba4c409" />
+
+<img width="236" height="200" alt="image" src="https://github.com/user-attachments/assets/b1ffc8eb-010f-4d26-861f-613676fd9108" />
+
+
+<img width="145" height="220" alt="image" src="https://github.com/user-attachments/assets/2f8c6586-684a-4f45-be24-f76a89b99952" />
+
+
+<img width="184" height="46" alt="image" src="https://github.com/user-attachments/assets/6fe06708-73be-4935-a62b-77623ba4c409" />
 
 
 ## 📄 Лицензия
