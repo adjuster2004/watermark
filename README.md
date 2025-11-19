@@ -1,6 +1,7 @@
 # Free watermark bot
 
 **English**
+
 A bot can add a watermark to an image.
 A watermark can be either an image or text.
 
@@ -66,6 +67,7 @@ docker-compose down
 -------------------------------------------------
 
 **Русский**
+
 Бот может добавить водяной знак к изображению.
 Водяной знак может быть изображением или текстом.
 
