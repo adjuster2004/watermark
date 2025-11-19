@@ -29,14 +29,14 @@ cd watermark
 ```
 **Edit** config.yaml
 telegram:
-  **admin_id**: here is your token
-  **bot_token**: here is your bot's token
-  **channel_id**: 'Specify the channel ID of the channel in which the bot will post' (Optional parameter)
+- **admin_id**: here is your token
+- **bot_token**: here is your bot's token
+-  **channel_id**: 'Specify the channel ID of the channel in which the bot will post' (Optional parameter)
 
 **Examle**
-  **admin_id**: 9989543478
-  **bot_token**: 6183733821:AAHKNDHFUDJFjiqtBWkWd0FMDYSLRKJT2YxXY
-  **channel_id**: '-**100**2369337436'
+ - **admin_id**: 9989543478
+ - **bot_token**: 6183733821:AAHKNDHFUDJFjiqtBWkWd0FMDYSLRKJT2YxXY
+ - **channel_id**: '-**100**2369337436'
 
 Channel IDs:
 
