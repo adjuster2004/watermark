@@ -1,4 +1,4 @@
-# Free watermark bot
+# Free watermark bot / for example [@wtermarkbot](https://web.telegram.org/k/#@wtermarkbot) 
 
 **English**
 
