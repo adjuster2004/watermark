@@ -157,6 +157,23 @@ docker-compose down
 <img width="184" height="46" alt="image" src="https://github.com/user-attachments/assets/6fe06708-73be-4935-a62b-77623ba4c409" />
 
 
+### 📋 Фотографии меню администратора Pro версии
+
+Меню администратора
+
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/5213f444-cf5b-4140-be1f-78ffdd2a904b" />
+
+Настройки видео
+
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/72faa7ff-dcf9-41e8-aa24-c7bd5eb48989" />
+
+Главное меню
+
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/9017e830-d901-46f9-8cff-dc0792b54b9e" />
+
+
+
+
 ## 📄 Лицензия
 Этот проект распространяется под лицензией **MIT**.
 
