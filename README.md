@@ -161,15 +161,15 @@ docker-compose down
 
 Меню администратора
 
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/5213f444-cf5b-4140-be1f-78ffdd2a904b" />
+<img width="288" height="640" alt="image" src="https://github.com/user-attachments/assets/5213f444-cf5b-4140-be1f-78ffdd2a904b" />
 
 Настройки видео
 
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/72faa7ff-dcf9-41e8-aa24-c7bd5eb48989" />
+<img width="288" height="640" alt="image" src="https://github.com/user-attachments/assets/72faa7ff-dcf9-41e8-aa24-c7bd5eb48989" />
 
 Главное меню
 
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/9017e830-d901-46f9-8cff-dc0792b54b9e" />
+<img width="288" height="640" alt="image" src="https://github.com/user-attachments/assets/9017e830-d901-46f9-8cff-dc0792b54b9e" />
 
 
 
