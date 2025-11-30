@@ -46,7 +46,7 @@ Channel IDs:
 - Go into your source channel.
 - Tap and hold (or right-click) on any message.
 - Select "Forward".
-- Choose @userinfobot as the recipient.
+- Choose **@usernames_id_bot** as the recipient.
 - The bot will reply with the correct Channel ID. It will likely be a negative number (e.g., -100123456789).
 - Repeat the forwarding process for your destination channel.
 - Finding a Specific Message ID (Optional): By default, the script reposts the latest message. To repost a specific message, you need its ID.
@@ -112,7 +112,7 @@ telegram:
 - Перейдите в исходный канал.
 - Нажмите и удерживайте (или щелкните правой кнопкой мыши) любое сообщение.
 - Выберите «Переслать».
-- Выберите @userinfobot в качестве получателя.
+- Выберите **@usernames_id_bot** в качестве получателя.
 - Бот ответит правильным идентификатором канала. Скорее всего, это будет отрицательное число (например, -100123456789).
 - Повторите процесс пересылки для целевого канала.
 - Поиск конкретного идентификатора сообщения (необязательно): По умолчанию скрипт перепечатывает последнее сообщение. Чтобы перепечатать конкретное сообщение, вам нужен его идентификатор.
